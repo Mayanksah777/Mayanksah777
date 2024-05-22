@@ -3,7 +3,7 @@
 <h3 align="center">A Software Engineering Enthusiast from India</h3>
 
 <div align="center">
-  <img height="300" src="https://wiidgets.vercel.app/api/banner?title=Mayank%20Sha&bio=MERN%20Developer%20%F0%9F%A5%A4&twitter=Mayanksah777"  />
+  <img height="300" src="https://wiidgets.vercel.app/api/banner?title=Mayank%20Sah&bio=MERN%20Developer%20%F0%9F%A5%A4&twitter=Mayanksah777"  />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mayanksah777&label=Profile%20views&color=0e75b6&style=flat" alt="Mayanksah777" /> </p>
